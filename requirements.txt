@@ -1,0 +1,5 @@
+cohere
+weaviate-client
+jupyter
+ipython
+python-dotenv
